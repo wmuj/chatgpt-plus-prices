@@ -1,0 +1,42 @@
+{
+  "updated": "2026-08-20",
+  "plan": "ChatGPT Plus 月费",
+  "usLocal": 19.99,
+  "usCurrency": "USD",
+  "notes": {
+    "turkey": "土耳其 2026 年 6 月从 ₺499.99 涨到 ₺999.99，已不便宜。",
+    "argentina": "阿根廷 App Store 现按美元 US$19.99 计价。",
+    "web": "chatgpt.com 网页订阅多接近 $20 + 税，地区差价主要在 App Store。"
+  },
+  "regions": [
+    {"name": "菲律宾", "code": "PH", "currency": "PHP", "local": 999, "localLabel": "₱999", "source": "App Store 8月"},
+    {"name": "巴基斯坦", "code": "PK", "currency": "PKR", "local": 4900, "localLabel": "Rs 4,900", "source": "App Store 8月"},
+    {"name": "加拿大", "code": "CA", "currency": "CAD", "local": 24.99, "localLabel": "CA$24.99", "source": "App Store 8月"},
+    {"name": "印尼", "code": "ID", "currency": "IDR", "local": 329000, "localLabel": "Rp329,000", "source": "公开追踪站"},
+    {"name": "香港", "code": "HK", "currency": "HKD", "local": 148, "localLabel": "HK$148", "source": "公开追踪站"},
+    {"name": "日本", "code": "JP", "currency": "JPY", "local": 3000, "localLabel": "¥3,000", "source": "App Store 8月"},
+    {"name": "越南", "code": "VN", "currency": "VND", "local": 499000, "localLabel": "₫499,000", "source": "公开追踪站"},
+    {"name": "巴西", "code": "BR", "currency": "BRL", "local": 99.9, "localLabel": "R$99.90", "source": "App Store 8月"},
+    {"name": "美国", "code": "US", "currency": "USD", "local": 19.99, "localLabel": "$19.99", "source": "App Store 8月"},
+    {"name": "阿根廷", "code": "AR", "currency": "USD", "local": 19.99, "localLabel": "US$19.99", "source": "App Store 8月"},
+    {"name": "玻利维亚", "code": "BO", "currency": "USD", "local": 19.99, "localLabel": "US$19.99", "source": "App Store 8月"},
+    {"name": "新西兰", "code": "NZ", "currency": "NZD", "local": 33.99, "localLabel": "NZ$33.99", "source": "公开追踪站"},
+    {"name": "土耳其", "code": "TR", "currency": "TRY", "local": 999.99, "localLabel": "₺999.99", "source": "App Store 8月"},
+    {"name": "韩国", "code": "KR", "currency": "KRW", "local": 29000, "localLabel": "₩29,000", "source": "App Store 8月"},
+    {"name": "印度", "code": "IN", "currency": "INR", "local": 1999, "localLabel": "₹1,999", "source": "App Store 8月"},
+    {"name": "泰国", "code": "TH", "currency": "THB", "local": 699, "localLabel": "฿699", "source": "公开追踪站"},
+    {"name": "澳大利亚", "code": "AU", "currency": "AUD", "local": 29.99, "localLabel": "A$29.99", "source": "App Store 8月"},
+    {"name": "台湾", "code": "TW", "currency": "TWD", "local": 690, "localLabel": "NT$690", "source": "App Store 8月"},
+    {"name": "阿联酋", "code": "AE", "currency": "AED", "local": 79.99, "localLabel": "AED 79.99", "source": "公开追踪站"},
+    {"name": "新加坡", "code": "SG", "currency": "SGD", "local": 28.9, "localLabel": "S$28.90", "source": "公开追踪站"},
+    {"name": "尼日利亚", "code": "NG", "currency": "NGN", "local": 31500, "localLabel": "₦31,500", "source": "App Store 8月"},
+    {"name": "以色列", "code": "IL", "currency": "ILS", "local": 69.9, "localLabel": "₪69.90", "source": "公开追踪站"},
+    {"name": "墨西哥", "code": "MX", "currency": "MXN", "local": 399, "localLabel": "MXN 399", "source": "App Store 8月"},
+    {"name": "马来西亚", "code": "MY", "currency": "MYR", "local": 99.9, "localLabel": "RM99.90", "source": "公开追踪站"},
+    {"name": "瑞士", "code": "CH", "currency": "CHF", "local": 20, "localLabel": "CHF 20", "source": "公开追踪站"},
+    {"name": "沙特", "code": "SA", "currency": "SAR", "local": 99, "localLabel": "SAR 99", "source": "公开追踪站"},
+    {"name": "欧盟", "code": "EU", "currency": "EUR", "local": 22.99, "localLabel": "€22.99", "source": "App Store 8月"},
+    {"name": "英国", "code": "GB", "currency": "GBP", "local": 19.99, "localLabel": "£19.99", "source": "App Store 8月"},
+    {"name": "丹麦", "code": "DK", "currency": "DKK", "local": 179, "localLabel": "kr 179", "source": "App Store 8月"}
+  ]
+}
