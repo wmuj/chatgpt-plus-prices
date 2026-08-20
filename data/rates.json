@@ -1,7 +1,7 @@
 {
   "provider": "open.er-api.com",
   "base": "USD",
-  "fetchedAt": "2026-08-20T08:52:12Z",
+  "fetchedAt": "2026-08-20T16:40:14Z",
   "timeLastUpdateUtc": "Thu, 20 Aug 2026 00:02:31 +0000",
   "rates": {
     "USD": 1,
